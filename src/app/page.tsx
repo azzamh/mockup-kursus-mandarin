@@ -40,7 +40,7 @@ function SectionTitle({ children, subtitle }: { children: React.ReactNode; subti
 
 function FloatingWhatsApp() {
   return (
-    <a href="https://wa.me/6285718594220?text=Halo%20saya%20mau%20info%20tentang%20program%20kursus" target="_blank" rel="noopener noreferrer"
+    <a href="https://wa.me/6285712345678text=Halo%20saya%20mau%20info%20tentang%20program%20kursus" target="_blank" rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 max-md:hidden flex items-center gap-2 bg-green-500 text-white px-4 py-3 rounded-full shadow-lg hover:bg-green-600 transition-all duration-300"
       style={{ animation: "whatsappPulse 2s infinite" }}>
       <MessageCircle className="w-6 h-6" /><span className="text-sm font-medium">Chat WhatsApp</span>
@@ -51,7 +51,7 @@ function FloatingWhatsApp() {
 function MobileStickyCTA() {
   return (
     <div className="fixed bottom-0 left-0 right-0 z-50 bg-white border-t border-gray-200 p-3 md:hidden">
-      <a href="https://wa.me/6285718594220?text=Halo%20saya%20mau%20info%20tentang%20program%20kursus" target="_blank" rel="noopener noreferrer"
+      <a href="https://wa.me/6285712345678text=Halo%20saya%20mau%20info%20tentang%20program%20kursus" target="_blank" rel="noopener noreferrer"
         className="flex items-center justify-center gap-2 bg-green-500 text-white w-full py-3 rounded-xl font-semibold text-sm hover:bg-green-600 transition-colors">
         <MessageCircle className="w-5 h-5" /> Konsultasi Gratis via WhatsApp
       </a>
@@ -151,7 +151,7 @@ function Hero() {
                 className="inline-flex items-center justify-center gap-2 bg-primary text-white px-8 py-4 rounded-full text-base font-semibold hover:bg-primary-dark transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5">
                 Daftar Konsultasi Gratis <ArrowRight className="w-5 h-5" />
               </a>
-              <a href="https://wa.me/6285718594220?text=Halo%20saya%20mau%20info%20tentang%20program%20kursus" target="_blank" rel="noopener noreferrer"
+              <a href="https://wa.me/6285712345678text=Halo%20saya%20mau%20info%20tentang%20program%20kursus" target="_blank" rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 border-2 border-gray-200 text-gray-700 px-8 py-4 rounded-full text-base font-semibold hover:border-primary hover:text-primary transition-all">
                 <MessageCircle className="w-5 h-5 text-green-500" /> Chat WhatsApp Sekarang
               </a>
@@ -541,7 +541,7 @@ function FooterCTA() {
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
             <a href="#form" className="inline-flex items-center gap-2 bg-primary text-white px-8 py-4 rounded-full text-base font-semibold hover:bg-primary-dark transition-all shadow-lg hover:shadow-xl">
               Daftar Sekarang! <ArrowRight className="w-5 h-5" /></a>
-            <a href="https://wa.me/62857123456789" target="_blank" rel="noopener noreferrer"
+            <a href="https://wa.me/6285712345678text=Halo%20saya%20mau%20info%20tentang%20program%20kursus" target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm text-white border border-white/20 px-8 py-4 rounded-full text-base font-semibold hover:bg-white/20 transition-all">
               <MessageCircle className="w-5 h-5" /> Hubungi Kami</a>
           </div>
