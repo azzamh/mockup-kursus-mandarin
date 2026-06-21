@@ -541,7 +541,7 @@ function FooterCTA() {
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
             <a href="#form" className="inline-flex items-center gap-2 bg-primary text-white px-8 py-4 rounded-full text-base font-semibold hover:bg-primary-dark transition-all shadow-lg hover:shadow-xl">
               Daftar Sekarang! <ArrowRight className="w-5 h-5" /></a>
-            <a href="https://wa.me/6285718594220?text=Halo%20saya%20mau%20info%20tentang%20program%20kursus" target="_blank" rel="noopener noreferrer"
+            <a href="https://wa.me/62857123456789" target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm text-white border border-white/20 px-8 py-4 rounded-full text-base font-semibold hover:bg-white/20 transition-all">
               <MessageCircle className="w-5 h-5" /> Hubungi Kami</a>
           </div>
